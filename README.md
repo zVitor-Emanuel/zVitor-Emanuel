@@ -1,9 +1,6 @@
-<h1 align="center">Olá, eu sou o Vitor Emanuel</h1>
-<h3 align="center">Analista de dados</h3>
+<h1 align="center">Hi, I'm Vitor</h1>
+<h3 align="center"> Data Analyst | Problem Solver </h3>
 
-- Estou constantemente aprendendo sobre **Estatística, Data Viz e Análise de dados**
-
-- Tenho conhecimento em **Python, SQL, Excel, AWS, Linux**
-
-
-
+- Passionate about **Statistics, Mathematics** and **Machine Learning**   
+- Skilled in **Python, SQL**, and familiar with **AWS and Linux environments**  
+- Continuously improving through hands-on projects and learning new tools  
